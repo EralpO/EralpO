@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm a web developer from Turkey.
+### I'm a Web Developer from Turkey.
 
 
 - 🔭 I’m currently working on angular recipe book project.
