@@ -1,17 +1,18 @@
 ### Hi there 👋
-<p style="color:red">Im a web developer</p>
-<!--
-**EralpO/EralpO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a web developer from Turkey.
 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on angular recipe book project.
+- 🌱 I’m currently learning asp.net mvc core.
+- 🤔 I’m looking for help with asp.net mvc core.
+- 💬 Ask me about javascript,node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+
+
+[instagram]: https://instagram.com/eralponay
+[linkedin]: https://www.linkedin.com/in/eralp-onay-234b83165/
