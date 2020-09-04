@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on angular recipe book project.
 - 🌱 I’m currently learning asp.net mvc core.
-- 🤔 I’m looking for help with asp.net mvc core.
+- 🤔 I’m looking for help with asp.net mvc core,redis.
 - 💬 Ask me about javascript,node.js.
 
 
